@@ -1,0 +1,53 @@
+body{
+    background-color: #cccccc;}
+.site{
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+    background-color: #ffffff;
+}
+#headerLine{
+    height : 5px;
+    background: #5693cf;
+}
+#w-header{
+    height: 90px;
+}
+#logo{
+    margin: 13px 133px 16px 70px;
+    padding: 3px;
+    float: left;
+}
+#titles{
+    width: 310px;
+    padding: 3px;
+    float: left;
+    margin: auto 71px;
+}
+#h-contact{
+
+    margin-right:20px;
+    float: right;
+}
+#h-contact img{
+    margin-top: 23px;
+    height: 28px;
+}
+#h-contact span{
+    font-size: 12.5px;
+    color: #939497;
+}
+.site-title{
+    font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+    font-size: 26px;
+    margin: 13px auto 0px;
+    color: #0094d6;
+}
+.site-description{
+    font-family: 'Lobster', cursive;
+    font-size: 21.5px;
+    text-align: center;
+    margin: 0;
+    letter-spacing: 1px;
+    color: #0094d6;
+}

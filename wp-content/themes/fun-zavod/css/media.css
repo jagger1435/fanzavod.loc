@@ -1,0 +1,38 @@
+/* Extra small devices (phones) */
+@media (max-width: 782px) {
+ .fw-container {
+     width: 750px;
+ }
+}
+
+/* Small devices (tablets) */
+@media (min-width: 783px) and (max-width: 900px) {
+    .site{
+        width: 960px;
+        padding: 0;
+}
+    .fw-container {
+        width: 960px;
+    }
+}
+
+/* Medium devices (desktops) */
+@media (min-width: 901px) and (max-width: 1199px) {
+    .site{
+        width: 960px;
+
+    }
+    .fw-container {
+        width: 1170px;
+    }
+}
+
+/* Large devices (large desktops) */
+@media (min-width: 1200px) {
+    .site{
+        width: 960px;
+    }
+    .fw-container {
+        width: 1170px;
+    }
+}
